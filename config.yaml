@@ -129,7 +129,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/document/CV_EN_2024-03-17_Youcef_Boutiche.pdf"
+      url: "/document/CV_EN_2024-04-10_Youcef_Boutiche.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -173,6 +173,8 @@ params:
         - "C"
         - "C++"
         - "C#"
+        - "wordpress"
+        - "pyTorch"
 
   # Experience
   experience:
@@ -187,7 +189,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://web5.2060.io/"
-        content: "I am currently working as a software developer."
+        content: "I worked as a software developer."
 
       - job: "Teacher at univercity"
         company: "University of Boumerdes Algeria"
@@ -201,6 +203,7 @@ params:
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
           I am currently working as a teacher of algorithmics at the university. I give a cours of the basics of algoorithms.
+
 
       # - job: "Junior Software Developer"
       #   company: "Apple"
@@ -350,6 +353,39 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/youcefpy/mini-shop-app-with-php
+      
+      - title:  immobProject
+        content: "I created a platform, club-efa.com, tailored for the Algerian diaspora in France, facilitating engagement with the Algerian real estate market. Entrepreneurs can secure event spaces as exhibitors, while prospective buyers gain access as visitors to explore investment opportunities in Algeria's diverse property landscape."
+        image: /images/projects/immobProject.jpg
+        featured:
+          name: club-efa
+          link: https://club-efa.com/
+        badges:
+          - "Python"
+          - "Django"
+          - "HTML"
+          - "CSS"
+          - "JS"
+        links:
+          - icon: fab fa-github
+          -  url: https://github.com/youcefpy/immobProject
+
+      - title:  Honey Stock ManagApp
+        content: "I created a web application for managing the honey stock market, just for educational purposes"
+        image: /images/projects/stockhoney.jpg
+
+        badges:
+          - "Python"
+          - "Django"
+          - "HTML"
+          - "CSS"
+          - "JS"
+        links:
+          - icon: fab fa-github
+          -  url: https://github.com/youcefpy/Django-honey-stock-web-app
+        
+
+
 
   #Contact
   contact:
