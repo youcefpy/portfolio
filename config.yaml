@@ -371,7 +371,7 @@ params:
           -  url: https://github.com/youcefpy/immobProject
 
       - title:  Honey Stock ManagApp
-        content: "I created a web application for managing the honey stock market, just for educational purposes"
+        content: "I created a web application for managing the honey stock market, just for educational purposes."
         image: /images/projects/stockhoney.jpg
 
         badges:
@@ -384,7 +384,14 @@ params:
           - icon: fab fa-github
           -  url: https://github.com/youcefpy/Django-honey-stock-web-app
         
-
+      - title:  E-commerce website (wordpress)
+        content: "I build a e-commerce website with cms (wordpress). for education purposes."
+        image: /images/projects/ecommerce-wordpress.jpg
+        featured:
+          name: Ez-TechDz
+          link: https://boutiche-company.com/
+        badges:
+          - "WordPress"
 
 
   #Contact
