@@ -202,7 +202,7 @@ params:
         #   enable: true
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a teacher of algorithmics at the university. I give a cours of the basics of algoorithms.
+          I am currently working as a teacher of algorithmics at the university. I give a cours of the basics of algorithms.
 
 
       # - job: "Junior Software Developer"
@@ -275,7 +275,7 @@ params:
         school:
           name: "Mohamed El-Aid Al-Khalifa High School Boumerdes, Algeria"
           # url: "https://example.org"
-        GPA: "12.47/20"
+        # GPA: "12.47/20"
         content: |-
           I hold a baccalaureate exam degree in mathematics.
         # featuredLink:
