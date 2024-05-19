@@ -129,7 +129,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/document/CV_EN_2024-04-10_Youcef_Boutiche.pdf"
+      url: "/document/CV_EN_2024-05-17_Youcef_Boutiche.pdf"
       download: true
       newPage: false
     socialLinks:
